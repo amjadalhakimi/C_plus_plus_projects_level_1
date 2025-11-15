@@ -1,2 +1,2 @@
 # C-projects-level-1
-These project for C++ practice
+These projects for C++ practice
