@@ -1,8 +1,7 @@
 # Algorithms & Problem Solving Level 1
 These are 50 projects in c++
 
-01-Print your name
-
+01-Print your name 
 02-Ask the user to enter his/her name and print it
 
 03-Ask the user to enter a number then check Odd or Even
