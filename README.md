@@ -1,2 +1,3 @@
-# C-projects-level-1
-These projects for C++ practice
+# Algorithms & Problem Solving Level 1
+These projects are in c++
+
