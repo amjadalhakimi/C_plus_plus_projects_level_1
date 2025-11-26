@@ -1,5 +1,5 @@
 # Algorithms & Problem Solving Level 1
-These projects are in c++
+These are 50 projects in c++
 
 01-Print your name
 
