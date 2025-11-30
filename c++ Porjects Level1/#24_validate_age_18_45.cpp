@@ -9,20 +9,23 @@ bool validateNumberInRange(int number, int from, int to){
 int readAge(){
 	
 	int age;
-	do{
 	cout<<"please enter your age: ";
 	cin>>age;
-	}while(!validateNumberInRange(age, 18, 45));
 	
 	return age;
 }
 
 void printAge(int age){
 	
-	sudo cout<<"Age is valid\n";
+	if(validateNumberInRange(age, 18, 45))
+		cout<<age<<" is a valide age\n";
+	else
+		cout<<age<<" is NOT a valide age\n";
+		
 }
 
-int main(){
+int main()
+{
 	printAge(readAge());
 	
 	return 0;
